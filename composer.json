@@ -31,10 +31,5 @@
 		"psr-4" : {
 			"Goetas\\XML\\XSDReader\\Tests\\" : "tests/"
 		}
-	},
-	"extra" : {
-		"branch-alias" : {
-			"dev-master" : "2.0-dev"
-		}
 	}
 }
